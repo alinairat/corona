@@ -36,8 +36,6 @@ export default class page1 extends React.Component {
                 </View>
                
                 <View style={{flex:0.1,alignItems:'center'}}>
-                     <Text style={{color:'Black' , fontFamily:'Cochin',fontWeight: "bold"}}>أوس أحمد عبدالله انعيرات</Text>
-                     <Text style={{color:'Black' , fontFamily:'Cochin',fontWeight: "bold"}}>مدرسة ذكور ميثلون الاساسية الثانية</Text>
                 </View>
                 </>
                 
